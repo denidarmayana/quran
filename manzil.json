@@ -1,0 +1,37 @@
+[
+  {
+    "manzil": 1,
+    "name": "Al-Fatihah",
+    "ayat": 1
+  },
+  {
+    "manzil": 2,
+    "name": "Al-Ma'idah",
+    "ayat": 1
+  },
+  {
+    "manzil": 3,
+    "name": "Yunus",
+    "ayat": 1
+  },
+  {
+    "manzil": 4,
+    "name": "Al-Isra'",
+    "ayat": 1
+  },
+  {
+    "manzil": 5,
+    "name": "Asy-Syu'ara'",
+    "ayat": 1
+  },
+  {
+    "manzil": 6,
+    "name": "As-Saffat",
+    "ayat": 1
+  },
+  {
+    "manzil": 7,
+    "name": "Qaf",
+    "ayat": 1
+  }
+]

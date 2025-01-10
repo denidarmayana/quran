@@ -1,0 +1,1202 @@
+[
+  {
+    "hizb": 1,
+    "name": "Al-Fatihah",
+    "ayat": 1
+  },
+  {
+    "hizb": 2,
+    "name": "Al-Baqarah",
+    "ayat": 26
+  },
+  {
+    "hizb": 3,
+    "name": "Al-Baqarah",
+    "ayat": 44
+  },
+  {
+    "hizb": 4,
+    "name": "Al-Baqarah",
+    "ayat": 60
+  },
+  {
+    "hizb": 5,
+    "name": "Al-Baqarah",
+    "ayat": 75
+  },
+  {
+    "hizb": 6,
+    "name": "Al-Baqarah",
+    "ayat": 92
+  },
+  {
+    "hizb": 7,
+    "name": "Al-Baqarah",
+    "ayat": 106
+  },
+  {
+    "hizb": 8,
+    "name": "Al-Baqarah",
+    "ayat": 124
+  },
+  {
+    "hizb": 9,
+    "name": "Al-Baqarah",
+    "ayat": 142
+  },
+  {
+    "hizb": 10,
+    "name": "Al-Baqarah",
+    "ayat": 158
+  },
+  {
+    "hizb": 11,
+    "name": "Al-Baqarah",
+    "ayat": 177
+  },
+  {
+    "hizb": 12,
+    "name": "Al-Baqarah",
+    "ayat": 189
+  },
+  {
+    "hizb": 13,
+    "name": "Al-Baqarah",
+    "ayat": 203
+  },
+  {
+    "hizb": 14,
+    "name": "Al-Baqarah",
+    "ayat": 219
+  },
+  {
+    "hizb": 15,
+    "name": "Al-Baqarah",
+    "ayat": 233
+  },
+  {
+    "hizb": 16,
+    "name": "Al-Baqarah",
+    "ayat": 243
+  },
+  {
+    "hizb": 17,
+    "name": "Al-Baqarah",
+    "ayat": 253
+  },
+  {
+    "hizb": 18,
+    "name": "Al-Baqarah",
+    "ayat": 263
+  },
+  {
+    "hizb": 19,
+    "name": "Al-Baqarah",
+    "ayat": 272
+  },
+  {
+    "hizb": 20,
+    "name": "Al-Baqarah",
+    "ayat": 283
+  },
+  {
+    "hizb": 21,
+    "name": "Ali 'Imran",
+    "ayat": 15
+  },
+  {
+    "hizb": 22,
+    "name": "Ali 'Imran",
+    "ayat": 33
+  },
+  {
+    "hizb": 23,
+    "name": "Ali 'Imran",
+    "ayat": 52
+  },
+  {
+    "hizb": 24,
+    "name": "Ali 'Imran",
+    "ayat": 75
+  },
+  {
+    "hizb": 25,
+    "name": "Ali 'Imran",
+    "ayat": 93
+  },
+  {
+    "hizb": 26,
+    "name": "Ali 'Imran",
+    "ayat": 113
+  },
+  {
+    "hizb": 27,
+    "name": "Ali 'Imran",
+    "ayat": 133
+  },
+  {
+    "hizb": 28,
+    "name": "Ali 'Imran",
+    "ayat": 153
+  },
+  {
+    "hizb": 29,
+    "name": "Ali 'Imran",
+    "ayat": 171
+  },
+  {
+    "hizb": 30,
+    "name": "Ali 'Imran",
+    "ayat": 186
+  },
+  {
+    "hizb": 31,
+    "name": "An-Nisa'",
+    "ayat": 1
+  },
+  {
+    "hizb": 32,
+    "name": "An-Nisa'",
+    "ayat": 12
+  },
+  {
+    "hizb": 33,
+    "name": "An-Nisa'",
+    "ayat": 24
+  },
+  {
+    "hizb": 34,
+    "name": "An-Nisa'",
+    "ayat": 36
+  },
+  {
+    "hizb": 35,
+    "name": "An-Nisa'",
+    "ayat": 58
+  },
+  {
+    "hizb": 36,
+    "name": "An-Nisa'",
+    "ayat": 74
+  },
+  {
+    "hizb": 37,
+    "name": "An-Nisa'",
+    "ayat": 88
+  },
+  {
+    "hizb": 38,
+    "name": "An-Nisa'",
+    "ayat": 100
+  },
+  {
+    "hizb": 39,
+    "name": "An-Nisa'",
+    "ayat": 114
+  },
+  {
+    "hizb": 40,
+    "name": "An-Nisa'",
+    "ayat": 135
+  },
+  {
+    "hizb": 41,
+    "name": "An-Nisa'",
+    "ayat": 148
+  },
+  {
+    "hizb": 42,
+    "name": "An-Nisa'",
+    "ayat": 163
+  },
+  {
+    "hizb": 43,
+    "name": "Al-Ma'idah",
+    "ayat": 1
+  },
+  {
+    "hizb": 44,
+    "name": "Al-Ma'idah",
+    "ayat": 12
+  },
+  {
+    "hizb": 45,
+    "name": "Al-Ma'idah",
+    "ayat": 27
+  },
+  {
+    "hizb": 46,
+    "name": "Al-Ma'idah",
+    "ayat": 41
+  },
+  {
+    "hizb": 47,
+    "name": "Al-Ma'idah",
+    "ayat": 51
+  },
+  {
+    "hizb": 48,
+    "name": "Al-Ma'idah",
+    "ayat": 67
+  },
+  {
+    "hizb": 49,
+    "name": "Al-Ma'idah",
+    "ayat": 82
+  },
+  {
+    "hizb": 50,
+    "name": "Al-Ma'idah",
+    "ayat": 97
+  },
+  {
+    "hizb": 51,
+    "name": "Al-Ma'idah",
+    "ayat": 109
+  },
+  {
+    "hizb": 52,
+    "name": "Al-An'am",
+    "ayat": 13
+  },
+  {
+    "hizb": 53,
+    "name": "Al-An'am",
+    "ayat": 36
+  },
+  {
+    "hizb": 54,
+    "name": "Al-An'am",
+    "ayat": 59
+  },
+  {
+    "hizb": 55,
+    "name": "Al-An'am",
+    "ayat": 74
+  },
+  {
+    "hizb": 56,
+    "name": "Al-An'am",
+    "ayat": 95
+  },
+  {
+    "hizb": 57,
+    "name": "Al-An'am",
+    "ayat": 111
+  },
+  {
+    "hizb": 58,
+    "name": "Al-An'am",
+    "ayat": 127
+  },
+  {
+    "hizb": 59,
+    "name": "Al-An'am",
+    "ayat": 141
+  },
+  {
+    "hizb": 60,
+    "name": "Al-An'am",
+    "ayat": 151
+  },
+  {
+    "hizb": 61,
+    "name": "Al-A'raf",
+    "ayat": 1
+  },
+  {
+    "hizb": 62,
+    "name": "Al-A'raf",
+    "ayat": 31
+  },
+  {
+    "hizb": 63,
+    "name": "Al-A'raf",
+    "ayat": 47
+  },
+  {
+    "hizb": 64,
+    "name": "Al-A'raf",
+    "ayat": 65
+  },
+  {
+    "hizb": 65,
+    "name": "Al-A'raf",
+    "ayat": 88
+  },
+  {
+    "hizb": 66,
+    "name": "Al-A'raf",
+    "ayat": 117
+  },
+  {
+    "hizb": 67,
+    "name": "Al-A'raf",
+    "ayat": 142
+  },
+  {
+    "hizb": 68,
+    "name": "Al-A'raf",
+    "ayat": 156
+  },
+  {
+    "hizb": 69,
+    "name": "Al-A'raf",
+    "ayat": 171
+  },
+  {
+    "hizb": 70,
+    "name": "Al-A'raf",
+    "ayat": 189
+  },
+  {
+    "hizb": 71,
+    "name": "Al-Anfal",
+    "ayat": 1
+  },
+  {
+    "hizb": 72,
+    "name": "Al-Anfal",
+    "ayat": 22
+  },
+  {
+    "hizb": 73,
+    "name": "Al-Anfal",
+    "ayat": 41
+  },
+  {
+    "hizb": 74,
+    "name": "Al-Anfal",
+    "ayat": 61
+  },
+  {
+    "hizb": 75,
+    "name": "At-Taubah",
+    "ayat": 1
+  },
+  {
+    "hizb": 76,
+    "name": "At-Taubah",
+    "ayat": 19
+  },
+  {
+    "hizb": 77,
+    "name": "At-Taubah",
+    "ayat": 34
+  },
+  {
+    "hizb": 78,
+    "name": "At-Taubah",
+    "ayat": 46
+  },
+  {
+    "hizb": 79,
+    "name": "At-Taubah",
+    "ayat": 60
+  },
+  {
+    "hizb": 80,
+    "name": "At-Taubah",
+    "ayat": 75
+  },
+  {
+    "hizb": 81,
+    "name": "At-Taubah",
+    "ayat": 93
+  },
+  {
+    "hizb": 82,
+    "name": "At-Taubah",
+    "ayat": 111
+  },
+  {
+    "hizb": 83,
+    "name": "At-Taubah",
+    "ayat": 122
+  },
+  {
+    "hizb": 84,
+    "name": "Yunus",
+    "ayat": 11
+  },
+  {
+    "hizb": 85,
+    "name": "Yunus",
+    "ayat": 26
+  },
+  {
+    "hizb": 86,
+    "name": "Yunus",
+    "ayat": 53
+  },
+  {
+    "hizb": 87,
+    "name": "Yunus",
+    "ayat": 71
+  },
+  {
+    "hizb": 88,
+    "name": "Yunus",
+    "ayat": 90
+  },
+  {
+    "hizb": 89,
+    "name": "Hud",
+    "ayat": 6
+  },
+  {
+    "hizb": 90,
+    "name": "Hud",
+    "ayat": 24
+  },
+  {
+    "hizb": 91,
+    "name": "Hud",
+    "ayat": 41
+  },
+  {
+    "hizb": 92,
+    "name": "Hud",
+    "ayat": 61
+  },
+  {
+    "hizb": 93,
+    "name": "Hud",
+    "ayat": 84
+  },
+  {
+    "hizb": 94,
+    "name": "Hud",
+    "ayat": 108
+  },
+  {
+    "hizb": 95,
+    "name": "Yusuf",
+    "ayat": 7
+  },
+  {
+    "hizb": 96,
+    "name": "Yusuf",
+    "ayat": 30
+  },
+  {
+    "hizb": 97,
+    "name": "Yusuf",
+    "ayat": 53
+  },
+  {
+    "hizb": 98,
+    "name": "Yusuf",
+    "ayat": 77
+  },
+  {
+    "hizb": 99,
+    "name": "Yusuf",
+    "ayat": 101
+  },
+  {
+    "hizb": 100,
+    "name": "Ar-Ra'd",
+    "ayat": 5
+  },
+  {
+    "hizb": 101,
+    "name": "Ar-Ra'd",
+    "ayat": 19
+  },
+  {
+    "hizb": 102,
+    "name": "Ar-Ra'd",
+    "ayat": 35
+  },
+  {
+    "hizb": 103,
+    "name": "Ibrahim",
+    "ayat": 10
+  },
+  {
+    "hizb": 104,
+    "name": "Ibrahim",
+    "ayat": 28
+  },
+  {
+    "hizb": 105,
+    "name": "Al-Hijr",
+    "ayat": 1
+  },
+  {
+    "hizb": 106,
+    "name": "Al-Hijr",
+    "ayat": 50
+  },
+  {
+    "hizb": 107,
+    "name": "An-Nahl",
+    "ayat": 1
+  },
+  {
+    "hizb": 108,
+    "name": "An-Nahl",
+    "ayat": 30
+  },
+  {
+    "hizb": 109,
+    "name": "An-Nahl",
+    "ayat": 51
+  },
+  {
+    "hizb": 110,
+    "name": "An-Nahl",
+    "ayat": 75
+  },
+  {
+    "hizb": 111,
+    "name": "An-Nahl",
+    "ayat": 90
+  },
+  {
+    "hizb": 112,
+    "name": "An-Nahl",
+    "ayat": 111
+  },
+  {
+    "hizb": 113,
+    "name": "Al-Isra'",
+    "ayat": 1
+  },
+  {
+    "hizb": 114,
+    "name": "Al-Isra'",
+    "ayat": 23
+  },
+  {
+    "hizb": 115,
+    "name": "Al-Isra'",
+    "ayat": 50
+  },
+  {
+    "hizb": 116,
+    "name": "Al-Isra'",
+    "ayat": 70
+  },
+  {
+    "hizb": 117,
+    "name": "Al-Isra'",
+    "ayat": 99
+  },
+  {
+    "hizb": 118,
+    "name": "Al-Kahf",
+    "ayat": 17
+  },
+  {
+    "hizb": 119,
+    "name": "Al-Kahf",
+    "ayat": 32
+  },
+  {
+    "hizb": 120,
+    "name": "Al-Kahf",
+    "ayat": 51
+  },
+  {
+    "hizb": 121,
+    "name": "Al-Kahf",
+    "ayat": 75
+  },
+  {
+    "hizb": 122,
+    "name": "Al-Kahf",
+    "ayat": 99
+  },
+  {
+    "hizb": 123,
+    "name": "Maryam",
+    "ayat": 22
+  },
+  {
+    "hizb": 124,
+    "name": "Maryam",
+    "ayat": 59
+  },
+  {
+    "hizb": 125,
+    "name": "Taha",
+    "ayat": 1
+  },
+  {
+    "hizb": 126,
+    "name": "Taha",
+    "ayat": 55
+  },
+  {
+    "hizb": 127,
+    "name": "Taha",
+    "ayat": 83
+  },
+  {
+    "hizb": 128,
+    "name": "Taha",
+    "ayat": 111
+  },
+  {
+    "hizb": 129,
+    "name": "Al-Anbiya'",
+    "ayat": 1
+  },
+  {
+    "hizb": 130,
+    "name": "Al-Anbiya'",
+    "ayat": 29
+  },
+  {
+    "hizb": 131,
+    "name": "Al-Anbiya'",
+    "ayat": 51
+  },
+  {
+    "hizb": 132,
+    "name": "Al-Anbiya'",
+    "ayat": 83
+  },
+  {
+    "hizb": 133,
+    "name": "Al-Hajj",
+    "ayat": 1
+  },
+  {
+    "hizb": 134,
+    "name": "Al-Hajj",
+    "ayat": 19
+  },
+  {
+    "hizb": 135,
+    "name": "Al-Hajj",
+    "ayat": 38
+  },
+  {
+    "hizb": 136,
+    "name": "Al-Hajj",
+    "ayat": 60
+  },
+  {
+    "hizb": 137,
+    "name": "Al-Mu'minun",
+    "ayat": 1
+  },
+  {
+    "hizb": 138,
+    "name": "Al-Mu'minun",
+    "ayat": 36
+  },
+  {
+    "hizb": 139,
+    "name": "Al-Mu'minun",
+    "ayat": 75
+  },
+  {
+    "hizb": 140,
+    "name": "An-Nur",
+    "ayat": 1
+  },
+  {
+    "hizb": 141,
+    "name": "An-Nur",
+    "ayat": 21
+  },
+  {
+    "hizb": 142,
+    "name": "An-Nur",
+    "ayat": 35
+  },
+  {
+    "hizb": 143,
+    "name": "An-Nur",
+    "ayat": 53
+  },
+  {
+    "hizb": 144,
+    "name": "Al-Furqan",
+    "ayat": 1
+  },
+  {
+    "hizb": 145,
+    "name": "Al-Furqan",
+    "ayat": 21
+  },
+  {
+    "hizb": 146,
+    "name": "Al-Furqan",
+    "ayat": 53
+  },
+  {
+    "hizb": 147,
+    "name": "Asy-Syu'ara'",
+    "ayat": 1
+  },
+  {
+    "hizb": 148,
+    "name": "Asy-Syu'ara'",
+    "ayat": 52
+  },
+  {
+    "hizb": 149,
+    "name": "Asy-Syu'ara'",
+    "ayat": 111
+  },
+  {
+    "hizb": 150,
+    "name": "Asy-Syu'ara'",
+    "ayat": 181
+  },
+  {
+    "hizb": 151,
+    "name": "An-Naml",
+    "ayat": 1
+  },
+  {
+    "hizb": 152,
+    "name": "An-Naml",
+    "ayat": 27
+  },
+  {
+    "hizb": 153,
+    "name": "An-Naml",
+    "ayat": 56
+  },
+  {
+    "hizb": 154,
+    "name": "An-Naml",
+    "ayat": 82
+  },
+  {
+    "hizb": 155,
+    "name": "Al-Qasas",
+    "ayat": 12
+  },
+  {
+    "hizb": 156,
+    "name": "Al-Qasas",
+    "ayat": 29
+  },
+  {
+    "hizb": 157,
+    "name": "Al-Qasas",
+    "ayat": 51
+  },
+  {
+    "hizb": 158,
+    "name": "Al-Qasas",
+    "ayat": 76
+  },
+  {
+    "hizb": 159,
+    "name": "Al-'Ankabut",
+    "ayat": 1
+  },
+  {
+    "hizb": 160,
+    "name": "Al-'Ankabut",
+    "ayat": 26
+  },
+  {
+    "hizb": 161,
+    "name": "Al-'Ankabut",
+    "ayat": 46
+  },
+  {
+    "hizb": 162,
+    "name": "Ar-Rum",
+    "ayat": 1
+  },
+  {
+    "hizb": 163,
+    "name": "Ar-Rum",
+    "ayat": 31
+  },
+  {
+    "hizb": 164,
+    "name": "Ar-Rum",
+    "ayat": 54
+  },
+  {
+    "hizb": 165,
+    "name": "Luqman",
+    "ayat": 22
+  },
+  {
+    "hizb": 166,
+    "name": "As-Sajdah",
+    "ayat": 11
+  },
+  {
+    "hizb": 167,
+    "name": "Al-Ahzab",
+    "ayat": 1
+  },
+  {
+    "hizb": 168,
+    "name": "Al-Ahzab",
+    "ayat": 18
+  },
+  {
+    "hizb": 169,
+    "name": "Al-Ahzab",
+    "ayat": 31
+  },
+  {
+    "hizb": 170,
+    "name": "Al-Ahzab",
+    "ayat": 51
+  },
+  {
+    "hizb": 171,
+    "name": "Al-Ahzab",
+    "ayat": 60
+  },
+  {
+    "hizb": 172,
+    "name": "Saba'",
+    "ayat": 10
+  },
+  {
+    "hizb": 173,
+    "name": "Saba'",
+    "ayat": 24
+  },
+  {
+    "hizb": 174,
+    "name": "Saba'",
+    "ayat": 46
+  },
+  {
+    "hizb": 175,
+    "name": "Fatir",
+    "ayat": 15
+  },
+  {
+    "hizb": 176,
+    "name": "Fatir",
+    "ayat": 41
+  },
+  {
+    "hizb": 177,
+    "name": "Yasin",
+    "ayat": 28
+  },
+  {
+    "hizb": 178,
+    "name": "Yasin",
+    "ayat": 60
+  },
+  {
+    "hizb": 179,
+    "name": "As-Saffat",
+    "ayat": 22
+  },
+  {
+    "hizb": 180,
+    "name": "As-Saffat",
+    "ayat": 83
+  },
+  {
+    "hizb": 181,
+    "name": "As-Saffat",
+    "ayat": 145
+  },
+  {
+    "hizb": 182,
+    "name": "Sad",
+    "ayat": 21
+  },
+  {
+    "hizb": 183,
+    "name": "Sad",
+    "ayat": 52
+  },
+  {
+    "hizb": 184,
+    "name": "Az-Zumar",
+    "ayat": 8
+  },
+  {
+    "hizb": 185,
+    "name": "Az-Zumar",
+    "ayat": 32
+  },
+  {
+    "hizb": 186,
+    "name": "Az-Zumar",
+    "ayat": 53
+  },
+  {
+    "hizb": 187,
+    "name": "Gafir",
+    "ayat": 1
+  },
+  {
+    "hizb": 188,
+    "name": "Gafir",
+    "ayat": 21
+  },
+  {
+    "hizb": 189,
+    "name": "Gafir",
+    "ayat": 41
+  },
+  {
+    "hizb": 190,
+    "name": "Gafir",
+    "ayat": 66
+  },
+  {
+    "hizb": 191,
+    "name": "Fussilat",
+    "ayat": 9
+  },
+  {
+    "hizb": 192,
+    "name": "Fussilat",
+    "ayat": 25
+  },
+  {
+    "hizb": 193,
+    "name": "Fussilat",
+    "ayat": 47
+  },
+  {
+    "hizb": 194,
+    "name": "Asy-Syura",
+    "ayat": 13
+  },
+  {
+    "hizb": 195,
+    "name": "Asy-Syura",
+    "ayat": 27
+  },
+  {
+    "hizb": 196,
+    "name": "Asy-Syura",
+    "ayat": 51
+  },
+  {
+    "hizb": 197,
+    "name": "Az-Zukhruf",
+    "ayat": 24
+  },
+  {
+    "hizb": 198,
+    "name": "Az-Zukhruf",
+    "ayat": 57
+  },
+  {
+    "hizb": 199,
+    "name": "Ad-Dukhan",
+    "ayat": 17
+  },
+  {
+    "hizb": 200,
+    "name": "Al-Jasiyah",
+    "ayat": 12
+  },
+  {
+    "hizb": 201,
+    "name": "Al-Ahqaf",
+    "ayat": 1
+  },
+  {
+    "hizb": 202,
+    "name": "Al-Ahqaf",
+    "ayat": 21
+  },
+  {
+    "hizb": 203,
+    "name": "Muhammad",
+    "ayat": 10
+  },
+  {
+    "hizb": 204,
+    "name": "Muhammad",
+    "ayat": 33
+  },
+  {
+    "hizb": 205,
+    "name": "Al-Fath",
+    "ayat": 18
+  },
+  {
+    "hizb": 206,
+    "name": "Al-Hujurat",
+    "ayat": 1
+  },
+  {
+    "hizb": 207,
+    "name": "Al-Hujurat",
+    "ayat": 14
+  },
+  {
+    "hizb": 208,
+    "name": "Qaf",
+    "ayat": 27
+  },
+  {
+    "hizb": 209,
+    "name": "Az-Zariyat",
+    "ayat": 31
+  },
+  {
+    "hizb": 210,
+    "name": "At-Tur",
+    "ayat": 24
+  },
+  {
+    "hizb": 211,
+    "name": "An-Najm",
+    "ayat": 26
+  },
+  {
+    "hizb": 212,
+    "name": "Al-Qamar",
+    "ayat": 9
+  },
+  {
+    "hizb": 213,
+    "name": "Ar-Rahman",
+    "ayat": 1
+  },
+  {
+    "hizb": 214,
+    "name": "Al-Waqi'ah",
+    "ayat": 1
+  },
+  {
+    "hizb": 215,
+    "name": "Al-Waqi'ah",
+    "ayat": 75
+  },
+  {
+    "hizb": 216,
+    "name": "Al-Hadid",
+    "ayat": 16
+  },
+  {
+    "hizb": 217,
+    "name": "Al-Mujadalah",
+    "ayat": 1
+  },
+  {
+    "hizb": 218,
+    "name": "Al-Mujadalah",
+    "ayat": 14
+  },
+  {
+    "hizb": 219,
+    "name": "Al-Hasyr",
+    "ayat": 11
+  },
+  {
+    "hizb": 220,
+    "name": "Al-Mumtahanah",
+    "ayat": 7
+  },
+  {
+    "hizb": 221,
+    "name": "Al-Jumu'ah",
+    "ayat": 1
+  },
+  {
+    "hizb": 222,
+    "name": "Al-Munafiqun",
+    "ayat": 4
+  },
+  {
+    "hizb": 223,
+    "name": "At-Talaq",
+    "ayat": 1
+  },
+  {
+    "hizb": 224,
+    "name": "At-Tahrim",
+    "ayat": 1
+  },
+  {
+    "hizb": 225,
+    "name": "Al-Mulk",
+    "ayat": 1
+  },
+  {
+    "hizb": 226,
+    "name": "Al-Qalam",
+    "ayat": 1
+  },
+  {
+    "hizb": 227,
+    "name": "Al-Haqqah",
+    "ayat": 1
+  },
+  {
+    "hizb": 228,
+    "name": "Al-Ma'arij",
+    "ayat": 19
+  },
+  {
+    "hizb": 229,
+    "name": "Al-Jinn",
+    "ayat": 1
+  },
+  {
+    "hizb": 230,
+    "name": "Al-Muzzammil",
+    "ayat": 20
+  },
+  {
+    "hizb": 231,
+    "name": "Al-Qiyamah",
+    "ayat": 1
+  },
+  {
+    "hizb": 232,
+    "name": "Al-Insan",
+    "ayat": 19
+  },
+  {
+    "hizb": 233,
+    "name": "An-Naba'",
+    "ayat": 1
+  },
+  {
+    "hizb": 234,
+    "name": "'Abasa",
+    "ayat": 1
+  },
+  {
+    "hizb": 235,
+    "name": "Al-Infitar",
+    "ayat": 1
+  },
+  {
+    "hizb": 236,
+    "name": "Al-Insyiqaq",
+    "ayat": 1
+  },
+  {
+    "hizb": 237,
+    "name": "Al-A'la",
+    "ayat": 1
+  },
+  {
+    "hizb": 238,
+    "name": "Al-Balad",
+    "ayat": 1
+  },
+  {
+    "hizb": 239,
+    "name": "Asy-Syarh",
+    "ayat": 1
+  },
+  {
+    "hizb": 240,
+    "name": "Al-'Adiyat",
+    "ayat": 9
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "juz": 1,
+    "name": "Al-Fatihah",
+    "ayat": 1
+  },
+  {
+    "juz": 2,
+    "name": "Al-Baqarah",
+    "ayat": 142
+  },
+  {
+    "juz": 3,
+    "name": "Al-Baqarah",
+    "ayat": 253
+  },
+  {
+    "juz": 4,
+    "name": "Ali 'Imran",
+    "ayat": 93
+  },
+  {
+    "juz": 5,
+    "name": "An-Nisa'",
+    "ayat": 24
+  },
+  {
+    "juz": 6,
+    "name": "An-Nisa'",
+    "ayat": 148
+  },
+  {
+    "juz": 7,
+    "name": "Al-Ma'idah",
+    "ayat": 82
+  },
+  {
+    "juz": 8,
+    "name": "Al-An'am",
+    "ayat": 111
+  },
+  {
+    "juz": 9,
+    "name": "Al-A'raf",
+    "ayat": 88
+  },
+  {
+    "juz": 10,
+    "name": "Al-Anfal",
+    "ayat": 41
+  },
+  {
+    "juz": 11,
+    "name": "At-Taubah",
+    "ayat": 93
+  },
+  {
+    "juz": 12,
+    "name": "Hud",
+    "ayat": 6
+  },
+  {
+    "juz": 13,
+    "name": "Yusuf",
+    "ayat": 53
+  },
+  {
+    "juz": 14,
+    "name": "Al-Hijr",
+    "ayat": 1
+  },
+  {
+    "juz": 15,
+    "name": "Al-Isra'",
+    "ayat": 1
+  },
+  {
+    "juz": 16,
+    "name": "Al-Kahf",
+    "ayat": 75
+  },
+  {
+    "juz": 17,
+    "name": "Al-Anbiya'",
+    "ayat": 1
+  },
+  {
+    "juz": 18,
+    "name": "Al-Mu'minun",
+    "ayat": 1
+  },
+  {
+    "juz": 19,
+    "name": "Al-Furqan",
+    "ayat": 21
+  },
+  {
+    "juz": 20,
+    "name": "An-Naml",
+    "ayat": 56
+  },
+  {
+    "juz": 21,
+    "name": "Al-'Ankabut",
+    "ayat": 46
+  },
+  {
+    "juz": 22,
+    "name": "Al-Ahzab",
+    "ayat": 31
+  },
+  {
+    "juz": 23,
+    "name": "Yasin",
+    "ayat": 28
+  },
+  {
+    "juz": 24,
+    "name": "Az-Zumar",
+    "ayat": 32
+  },
+  {
+    "juz": 25,
+    "name": "Fussilat",
+    "ayat": 47
+  },
+  {
+    "juz": 26,
+    "name": "Al-Ahqaf",
+    "ayat": 1
+  },
+  {
+    "juz": 27,
+    "name": "Az-Zariyat",
+    "ayat": 31
+  },
+  {
+    "juz": 28,
+    "name": "Al-Mujadalah",
+    "ayat": 1
+  },
+  {
+    "juz": 29,
+    "name": "Al-Mulk",
+    "ayat": 1
+  },
+  {
+    "juz": 30,
+    "name": "An-Naba'",
+    "ayat": 1
+  }
+]
